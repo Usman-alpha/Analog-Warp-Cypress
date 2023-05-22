@@ -1,0 +1,41 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-1871
+END=3344
+title=Analog WARP dApp Feedback form. Open feedback form.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. Submit form with empty fields.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. Email with validation checks.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. Who are you?
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. What are you giving feedback on?
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. What is your feedback?
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. Additional comments?
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=null
+title=Analog WARP dApp Feedback form. Submit form.
